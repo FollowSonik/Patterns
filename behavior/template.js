@@ -54,6 +54,6 @@ const dicksucker = new DickSucker('Sonik', 0)
 console.log(dicksucker.getPaid())
 console.log(dicksucker.wOMEGALULrk())
 
-const somebody = new Who('Who', 14883228)
+const somebody = new Who('Who', 13373228)
 console.log(somebody.getPaid())
 console.log(somebody.wOMEGALULrk())

@@ -33,6 +33,6 @@ const s1 = aws(new Server('12.23.45.53', 8888))
 console.log(s1.isAWS)
 console.log(s1.awsInfo())
 
-const s2 = azure(new Server('33.22.55.22', 1488))
+const s2 = azure(new Server('33.22.55.22', 1337))
 console.log(s2.isAzure)
 console.log(s2.url)

@@ -15,7 +15,7 @@ class StandartMembership {
 class PremiumMembership {
   constructor(name) {
     this.name = name
-    this.cost = 1488
+    this.cost = 1337
   }
 }
 
